@@ -1,40 +1,138 @@
-# Hi there! 👋
+<!-- Banner -->
+<h1 align="center">Hi, I'm Juan Bautista Medeot 👋</h1>
+<h3 align="center">Data Analyst • Aspiring Data Scientist</h3>
 
-Welcome to my GitHub profile! This README gives you a quick overview of who I am, what I do, and what you can find here.
-
-## 🚀 About Me
-- **Data Science enthusiast** with experience in machine learning, predictive analytics, and deep learning  
-- Currently working on projects related to:
-  - Regression & classification models  
-  - Clustering & unsupervised learning  
-  - Neural networks & deep learning  
-  - NLP & text analysis  
-  - Data visualizations and dashboards  
-
-## 🧰 Technologies & Tools
-**Languages:** Python, SQL
-**ML/DL:** scikit-learn, TensorFlow, Keras
-**Data:** Pandas, NumPy, Matplotlib, Seaborn  
-**Dashboards:** Looker Studio, Power BI  
-**Other:** Git, Google Cloud, Jupyter Notebooks  
-
-## 📌 Featured Projects
-- 🔮 *Astrology + Data Science* experiments  
-- 📊 Predictive models and exploratory data analysis  
-- 🧠 Neural network practice projects  
-- ✨ NLP models for text classification and sentiment analysis  
-
-## 🎓 Currently Learning
-- Advanced deep learning  
-- Generative AI workflows  
-- Deployment (FastAPI, Docker)  
-
-## 📫 Connect with Me
-Feel free to reach out — I'm always happy to collaborate or discuss ideas!
-
-- **Email:** juanmedeot@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/your-profile  ](https://www.linkedin.com/in/juan-bautista-medeot/)
+<p align="center">
+  📍 Córdoba, Argentina ·  
+  <a href="mailto:juanmedeot@gmail.com">juanmedeot@gmail.com</a> ·  
+  <a href="https://www.linkedin.com/in/juan-bautista-medeot">LinkedIn</a>
+</p>
 
 ---
 
-*⭐ Thanks for visiting my profile! If you like what you see, consider following or checking out my repositories.*  
+## 🚀 About Me
+
+I’m a **Data Analyst and aspiring Data Scientist** with **3+ years of experience** transforming data into insights that drive business impact.  
+My work spans **machine learning, analytics, automation, fraud detection, and BI dashboards**.
+
+I love solving real-world problems using:
+
+- Predictive modeling  
+- Customer behavior analytics  
+- Data visualization  
+- Deep learning & NLP  
+- Automation with Python  
+
+My background in **law + data science** gives me a unique perspective for analytical thinking, compliance, and decision-making.
+
+---
+
+## 🧩 What I Do
+
+### 📊 Data Analysis & Business Intelligence  
+- Power BI & Looker Studio dashboards  
+- KPI design & reporting automation  
+- Trend analysis & customer segmentation
+
+### 🤖 Machine Learning  
+- Classification, regression & clustering  
+- Churn prediction models  
+- Feature engineering & model optimization  
+
+### 🧠 Deep Learning  
+- Neural networks (CNN)  
+- NLP for text processing  
+- TensorFlow & Keras experimentation  
+
+### 🛠 Data Engineering Lite  
+- ETL workflows  
+- Python-based automations  
+- Data cleaning & pipelines
+
+---
+
+## 💼 Experience
+
+### **Astroterapeutica — Data Analyst (2022–Present)**  
+- Built and optimized a **churn prediction ML model**  
+- Created dashboards that boosted decision-making and performance  
+- Automated financial processes and lifecycle analytics  
+- Designed pricing insights and customer behavior analyses  
+
+### **Secretaría de Ingresos Públicos — Internal Auditor (2019–2022)**  
+- Conducted **20+ audits** for fraud detection & compliance  
+- Worked with large datasets using SQL & ETL  
+- Delivered analytical reports combining legal and data insights  
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+### **ML & AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+
+### **Data Visualization**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### **Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🚧 Featured Projects (Coming Soon)
+
+### 🔮 **Churn Prediction Model**
+Machine learning model predicting customer churn with feature engineering & dashboard insights.
+
+### 🧠 **NLP Text Classification**
+Text analysis pipeline using TF-IDF + neural networks.
+
+### 📊 **Sales & Retention Dashboard**
+Dynamic Power BI dashboard for business decision-making.
+
+---
+
+## 🎓 Certifications
+
+- 🎓 **Diploma in Data Science** — Universidad Nacional de Córdoba (2025)  
+- 🧪 Data Analytics — Coderhouse (2023)  
+- 🐍 CS50’s Python — Harvard Online (2022)  
+- 🛢 PL/SQL Beginner to Advanced — Udemy (2021)  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanmedeot&show_icons=true&theme=default&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmedeot&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **Email:** juanmedeot@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/juan-bautista-medeot  
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my portfolio! Feel free to explore my repositories.</h3>
