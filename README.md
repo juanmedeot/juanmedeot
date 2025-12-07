@@ -74,28 +74,4 @@ My background in **law + data science** gives me a unique perspective for analyt
 
 ---
 
-## 💼 Experience
-
-### **Astroterapeutica — Data Analyst (2022–Present)**  
-- Built and optimized a **churn prediction ML model**  
-- Created dashboards that boosted decision-making and performance  
-- Automated financial processes and lifecycle analytics  
-- Designed pricing insights and customer behavior analyses  
-
-### **Secretaría de Ingresos Públicos — Internal Auditor (2019–2022)**  
-- Conducted **20+ audits** for fraud detection & compliance  
-- Worked with large datasets using SQL & ETL  
-- Delivered analytical reports combining legal and data insights  
-
----
-
-## 🎓 Certifications
-
-- 🎓 **Diploma in Data Science** — Universidad Nacional de Córdoba (2025)  
-- 🧪 Data Analytics — Coderhouse (2023)  
-- 🐍 CS50’s Python — Harvard Online (2022)  
-- 🛢 PL/SQL Beginner to Advanced — Udemy (2021)  
-
----
-
 <h3 align="center">⭐ Thanks for visiting my portfolio! Feel free to explore my repositories.</h3>
