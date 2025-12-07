@@ -1,47 +1,96 @@
-# Hi, I'm Juan Bautista Medeot 👋  
-### Data Analyst | Aspiring Data Scientist  
-📍 Córdoba, Argentina · 📧 juanmedeot@gmail.com  
-🔗 linkedin.com/in/juan-bautista-medeot
+<!-- Banner -->
+<h1 align="center">Hi, I'm Juan Bautista Medeot 👋</h1>
+<h3 align="center">Data Analyst • Aspiring Data Scientist</h3>
+
+<p align="center">
+  📍 Córdoba, Argentina ·  
+  <a href="mailto:juanmedeot@gmail.com">juanmedeot@gmail.com</a> ·  
+  <a href="https://www.linkedin.com/in/juan-bautista-medeot">LinkedIn</a>
+</p>
 
 ---
 
-## 🚀 Summary
-Data Analyst with **3+ years of experience** in sales analytics, automation, fraud detection, and BI dashboards.  
-Strong skills in **Python, SQL, machine learning**, and **data storytelling**.  
-Currently completing a **Diploma in Data Science** and building ML and NLP projects.
+## 🚀 About Me
+
+I’m a **Data Analyst and aspiring Data Scientist** with **3+ years of experience** transforming data into insights that drive business impact.  
+My work spans **machine learning, analytics, automation, fraud detection, and BI dashboards**.
+
+I love solving real-world problems using:
+
+- Predictive modeling  
+- Customer behavior analytics  
+- Data visualization  
+- Deep learning & NLP  
+- Automation with Python  
+
+My background in **law + data science** gives me a unique perspective for analytical thinking, compliance, and decision-making.
 
 ---
 
-## 🛠 Skills
-**Languages:** Python, SQL, R  
-**ML/DL:** Scikit-learn, TensorFlow, Keras, Regression, Classification, Clustering, CNN, NLP  
-**Data Analysis:** Pandas, NumPy, ETL, Hypothesis Testing  
-**Visualization:** Power BI, Looker Studio, Matplotlib, Seaborn  
-**Other:** Git, Jupyter, Automation with Python  
+## 🧩 What I Do
+
+### 📊 Data Analysis & Business Intelligence  
+- Power BI & Looker Studio dashboards  
+- KPI design & reporting automation  
+- Trend analysis & customer segmentation
+
+### 🤖 Machine Learning  
+- Classification, regression & clustering  
+- Churn prediction models  
+- Feature engineering & model optimization  
+
+### 🧠 Deep Learning  
+- Neural networks (CNN)  
+- NLP for text processing  
+- TensorFlow & Keras experimentation  
+
+### 🛠 Data Engineering Lite  
+- ETL workflows  
+- Python-based automations  
+- Data cleaning & pipelines
 
 ---
 
 ## 💼 Experience
-**Data Analyst — Astroterapeutica (2022–Present)**  
-- Built ML model for **churn prediction**  
-- Developed BI dashboards for KPI tracking  
-- Automated financial workflows and lifecycle analytics  
-- Conducted customer behavior and pricing analysis  
 
-**Internal Auditor — Secretaría de Ingresos Públicos (2019–2022)**  
-- Led **20+ audits** for fraud detection & compliance  
-- SQL-based data analysis and ETL workflows  
-- Created data-driven legal/analytical reports  
+### **Astroterapeutica — Data Analyst (2022–Present)**  
+- Built and optimized a **churn prediction ML model**  
+- Created dashboards that boosted decision-making and performance  
+- Automated financial processes and lifecycle analytics  
+- Designed pricing insights and customer behavior analyses  
 
----
-
-## 🎓 Education & Certifications
-- **Diploma in Data Science**, UNC (2025)  
-- Data Analytics — Coderhouse (2023)  
-- CS50 Python — Harvard Online (2022)  
-- PL/SQL — Udemy (2021)  
-- **Law Degree**, Universidad Nacional de Córdoba  
+### **Secretaría de Ingresos Públicos — Internal Auditor (2019–2022)**  
+- Conducted **20+ audits** for fraud detection & compliance  
+- Worked with large datasets using SQL & ETL  
+- Delivered analytical reports combining legal and data insights  
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🛠 Tech Stack
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🎓 Certifications
+
+- 🎓 **Diploma in Data Science** — Universidad Nacional de Córdoba (2025)  
+- 🧪 Data Analytics — Coderhouse (2023)  
+- 🐍 CS50’s Python — Harvard Online (2022)  
+- 🛢 PL/SQL Beginner to Advanced — Udemy (2021)  
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my portfolio! Feel free to explore my repositories.</h3>
