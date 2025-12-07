@@ -119,20 +119,4 @@ Dynamic Power BI dashboard for business decision-making.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanmedeot&show_icons=true&theme=default&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmedeot&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact
-
-📧 **Email:** juanmedeot@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/juan-bautista-medeot  
-
----
-
 <h3 align="center">⭐ Thanks for visiting my portfolio! Feel free to explore my repositories.</h3>
