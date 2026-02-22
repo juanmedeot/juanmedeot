@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I’m a **Data Analyst with focus on Machine Learning** with **3+ years of experience** transforming data into insights that drive business impact.  
+I’m a **Data Analyst with focus on Machine Learning and 4+ years of experience** transforming data into insights that drive business impact.  
 My work spans **analytics, statistics, machine learning, automation, fraud detection, and BI dashboards**.
 
 I love solving real-world problems using:
