@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi, I'm Juan Bautista Medeot 👋</h1>
-<h3 align="center">Data Analyst • Machine Learning & Data Science</h3>
+<h3 align="center">Data Analyst | Machine Learning & Data Science</h3>
 
 <p align="center">
   📍 Córdoba, Argentina ·  
@@ -12,8 +12,8 @@
 
 ## 🚀 About Me
 
-I’m a **Data Analyst and aspiring Data Scientist** with **3+ years of experience** transforming data into insights that drive business impact.  
-My work spans **machine learning, analytics, automation, fraud detection, and BI dashboards**.
+I’m a **Data Analyst with a focus on Machine Learning** with **3+ years of experience** transforming data into insights that drive business impact.  
+My work spans **analytics, statistics, machine learning, automation, fraud detection, and BI dashboards**.
 
 I love solving real-world problems using:
 
