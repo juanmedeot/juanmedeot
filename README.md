@@ -53,7 +53,7 @@ My background in **law + data science** gives me a unique perspective for analyt
 ## 🧩 What I Do
 
 ### 📊 Data Analysis & Business Intelligence  
-- Power BI & Looker Studio dashboards  
+- Power BI & Data Studio dashboards  
 - KPI design & reporting automation  
 - Trend analysis & customer segmentation
 
