@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I’m a **Data Analyst with focus on Machine Learning and 4+ years of experience** transforming data into insights that drive business impact.  
+I’m a **Data Analyst with focus on Machine Learning and 5+ years of experience** transforming data into insights that drive business impact.  
 My work spans **analytics, statistics, machine learning, automation, fraud detection, and BI dashboards**.
 
 I love solving real-world problems using:
@@ -20,7 +20,6 @@ I love solving real-world problems using:
 - Predictive modeling  
 - Customer behavior analytics  
 - Data visualization  
-- Deep learning & NLP  
 - Automation with Python  
 
 My background in **law + data science** gives me a unique perspective for analytical thinking, compliance, and decision-making.
@@ -61,11 +60,6 @@ My background in **law + data science** gives me a unique perspective for analyt
 - Classification, regression & clustering  
 - Churn prediction models  
 - Feature engineering & model optimization  
-
-### 🧠 Deep Learning  
-- Neural networks (CNN)  
-- NLP for text processing  
-- TensorFlow & Keras experimentation  
 
 ### 🛠 Data Engineering Lite  
 - ETL workflows  
